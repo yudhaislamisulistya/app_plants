@@ -1,0 +1,30 @@
+0 banana
+1 blimbi
+2 centaloupe
+3 guava
+4 melon
+5 pepaya
+6 pineapple
+7 waterapple
+8 watermelon
+9 mango
+10 orange
+11 pomelo
+12 corn
+13 paddy
+14 coconut
+15 tobacco
+16 aloevera
+17 curcuma
+18 galangal
+19 ginger
+20 soybeans
+21 cassava
+22 sweet potatoes
+23 cucumber
+24 eggplant
+25 kale
+26 longbenas
+27 peper chili
+28 shallot
+29 spinach
